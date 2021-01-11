@@ -7,7 +7,6 @@ import java.util.Base64;
 import java.util.concurrent.Callable;
 
 /**
- * @author yang.zhou02@hand-china.com
  * @create 2021-01-10 下午1:47
  */
 public class HelloClassLoader extends ClassLoader{
